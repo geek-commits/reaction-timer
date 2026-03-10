@@ -2,6 +2,8 @@
 
 A two-player reaction time game on an Arduino Uno. Both players watch a green → yellow → red light sequence, then race to press their button the instant the red light goes out. First one to press wins the round.
 
+![Demo](demo.gif)
+
 ## How It Works
 
 The board runs a traffic-light countdown:
